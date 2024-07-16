@@ -48,6 +48,6 @@ If you have any questions or would like to learn more about our activities, feel
 
 - **Email**: su-webdev@sutb.cz
 - **Website**: [su.utb.cz](https://www.su.utb.cz)
-- **Facebook**: [fb.com/SUUTB](https://www.facebook.com/SUUTB)
+- **Facebook**: [fb.com/studentskaunieutb](https://www.facebook.com/studentskaunieutb)
 
 Thank you for visiting our GitHub organization. We look forward to your participation and contributions!
